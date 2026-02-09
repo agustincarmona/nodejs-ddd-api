@@ -1,4 +1,4 @@
-# API REST de Gestión de Transporte
+# Ejemplo: API REST de Gestión de Transporte
 
 > **Contexto para Claude AI:** API REST con arquitectura DDD | TypeScript + Express + MongoDB | Estado: CRUD Drivers completo | Tests: 16/16 pasando | Coverage: 83.58%
 
